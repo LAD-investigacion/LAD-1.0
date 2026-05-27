@@ -1,0 +1,24 @@
+=== LAD - LABORATORIO DE ANALISIS DISTRIBUTIVO ===
+                      Versión 1.0 | Mayo 2026
+
+INSTRUCCIONES:
+--------------
+1. Haga doble clic en 'Iniciar_LAD.bat'
+2. Espere a que la aplicación se abra en su navegador
+3. Seleccione ENIGH o cargue sus propios datos
+
+REQUISITOS:
+-----------
+- Windows 7, 8, 10 u 11
+- No necesita instalar R (ya está incluido)
+
+DISTRIBUCIÓN:
+-------------
+Este paquete es autocontenido. Comparta la carpeta completa o el archivo .exe.
+Disponible en: https://github.com/LAD-investigacion
+
+CRÉDITOS:
+---------
+Laboratorio de Análisis Distributivo (LAD)
+Alberto Carreto Nieto
+Coyoacán, Ciudad de México, 2026
