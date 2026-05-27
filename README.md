@@ -1,2 +1,1 @@
-# LAD-1.0
-Versión 1.0 del programa de cómputo Laboratorio de Análisis Distributivo
+Laboratorio de Análisis Distributivo - Medias Generalizadas Versión 1.0
