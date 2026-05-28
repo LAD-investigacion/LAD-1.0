@@ -1,4 +1,4 @@
-# Laboratorio de Análisis Distributivo (LAD)  1.0
+## Laboratorio de Análisis Distributivo (LAD)  1.0
 
 El programa de cómputo *Laboratorio de Análisis Distributivo (LAD)* se distribuye mediante repositorios en línea alojados en Google Drive y GitHub bajo dos modalidades:
 
