@@ -1,5 +1,5 @@
 ## Laboratorio de Análisis Distributivo (LAD) 1.0
-
+https://doi.org/10.5281/zenodo.20421365
 DOI: 10.5281/zenodo.20421365
 
 El programa computacional *Laboratorio de Análisis Distributivo (LAD)* se distribuye mediante repositorios en línea alojados en Google Drive y GitHub, bajo dos modalidades de acceso:
